@@ -10,7 +10,7 @@ namespace OOPPracticComputerClub
     {
         static void Main(string[] args)
         {
-            ComputerClub computerClub = new ComputerClub(8);
+            ComputerClub computerClub = new ComputerClub(10);
             computerClub.Work();
         }
     }
